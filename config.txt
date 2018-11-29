@@ -1,5 +1,5 @@
 token= NTE3NjY3NjgzNTEzMTM5MjE4.DuFjSw.FUo3ouG3VZKoLimPAjqRs51Zvqs
-owner= 438862789302419464
+owner= 459032200990425098
 prefix= E
 game= Ehelp By Adam
 stayinchannel=true
